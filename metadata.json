@@ -1,0 +1,7 @@
+{
+  "name": "GymManager Pro",
+  "description": "A comprehensive gym management system featuring monthly membership tracking, daily check-ins, and AI-powered insights for business growth.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
